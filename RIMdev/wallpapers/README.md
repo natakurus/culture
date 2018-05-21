@@ -1,7 +1,7 @@
 # Wallpaper
 All wallpapers are 1920x1080
 
-## Nasa tribute
+## NASA tribute
 ![RIMdev NASA tribute wallaper](rimdev-nasa-1920x1080.jpg?raw=true)
 
 ## Star Trek tribute
@@ -21,4 +21,4 @@ All wallpapers are 1920x1080
 ![RIMdev MARVEL wallaper](rimdev-marvel-1920x1080.jpg?raw=true)
 
 ## RIMdev 2018 team wallpaper
-![RIMdev 2018 team wallpaper](rimdev-2018-1920x1080.jpg?raw=true)
+![RIMdev 2018 team wallpaper](rimdev-2018-team-1920x1080.jpg?raw=true)
