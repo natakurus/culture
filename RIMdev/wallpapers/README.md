@@ -11,3 +11,5 @@
 ![RIMdev Vote Boga wallaper](rimdev-vote-boga-1920x1080.jpg?raw=true)
 
 ![RIMdev MARVEL wallaper](rimdev-marvel-1920x1080.jpg?raw=true)
+
+![RIMdev 2018 team wallpaper](rimdev-2018-1920x1080.jpg?raw=true)

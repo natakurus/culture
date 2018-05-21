@@ -1,4 +1,6 @@
-# culture
-cultural assets to for ritter insurance marketing development team
+# Culture
+Cultural assets to for Ritter Insurance Marketing Development team
 
-- [wallpaper](/RIMdev/wallpapers)
+- [Posters](/RIMdev/posters)
+- [Stickers](/RIMdev/stickers)
+- [Wallpaper](/RIMdev/wallpapers)
