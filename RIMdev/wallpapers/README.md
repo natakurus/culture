@@ -21,4 +21,4 @@ All wallpapers are 1920x1080
 ![RIMdev MARVEL wallaper](rimdev-marvel-1920x1080.jpg?raw=true)
 
 ## RIMdev 2018 team wallpaper
-![RIMdev 2018 team wallpaper](rimdev-2018-team-1920x1080.jpg?raw=true)
+![RIMdev 2018 team wallpaper](rimdev-team-2018-1920x1080.jpg?raw=true)
