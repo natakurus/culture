@@ -26,3 +26,6 @@ All wallpapers are 1920x1080
 ## RIMdev 2018 space wallpaper
 ![RIMdev 2018 space wallpaper](rimdev-2018-space-gray-1920x1080.jpg?raw=true)
 ![RIMdev 2018 space wallpaper](rimdev-2018-space-blue-1920x1080.jpg?raw=true)
+
+## RIMdev RoboCop
+![RIMdev RoboCop](rimdev-robocop-realistic-1920x1080.jpg?raw=true)
