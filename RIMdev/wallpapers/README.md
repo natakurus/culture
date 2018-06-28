@@ -30,3 +30,6 @@ All wallpapers are 1920x1080
 ## RIMdev 80's Robots
 ![RIMdev RoboCop](rimdev-robocop-realistic-1920x1080.jpg?raw=true)
 ![RIMdev Terminator](rimdev-terminator-1920x1080.jpg?raw=true)
+
+## Saved By The Dev (90's Saved By The Bell)
+![RIMdev Saved By The Dev](rimdev-saved-by-the-dev-1920x1080.jpg)
