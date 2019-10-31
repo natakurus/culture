@@ -39,3 +39,9 @@ All wallpapers are 1920x1080
 
 ## Indiana Jones
 ![Indiana Jones](rimdev-indiana-jones-1920x1080.jpg)
+
+## RIMdev Marvel
+![RIMdev Saved By The Dev](rimdev-iron-man-1920x1080.jpg)
+![RIMdev Saved By The Dev](rimdev-ant-man-1920x1080.jpg)
+![RIMdev Saved By The Dev](rimdev-spider-man-1920x1080.jpg)
+![RIMdev Saved By The Dev](rimdev-octupus-prime-1920x1080.jpg)
