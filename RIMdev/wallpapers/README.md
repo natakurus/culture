@@ -44,4 +44,7 @@ All wallpapers are 1920x1080
 ![Iron Man](rimdev-iron-man-1920x1080.jpg?raw=true)
 ![Ant Man](rimdev-ant-man-1920x1080.jpg?raw=true)
 ![Spider Man](rimdev-spider-man-1920x1080.jpg?raw=true)
-![Octupus Prime](rimdev-octupus-prime-1920x1080.jpg?raw=true)
+![Optimus Prime](rimdev-optimus-prime-1920x1080.jpg?raw=true)
+
+## RIMdev Christmas Deer
+![Christmas Deer](rimdev-christmas-deer-1920x1080.jpg?raw=true)
