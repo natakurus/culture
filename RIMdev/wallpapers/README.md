@@ -48,3 +48,6 @@ All wallpapers are 1920x1080
 
 ## RIMdev Christmas Deer
 ![Christmas Deer](rimdev-christmas-deer-1920x1080.jpg?raw=true)
+
+## RIMdev 2021
+![RIMdev 2021](rimdev-2021-1920x1080.jpg?raw=true)
